@@ -32,7 +32,7 @@ all student profiles.
 - dashboard.pbix — Power BI dashboard
 
 - ## Dashboard Preview
-(Screenshot coming soon)
+![Dashboard Preview](dashboard_preview.png)
 
 ## Key Takeaway
 Mental health risk cannot be predicted by financial status or academic 
